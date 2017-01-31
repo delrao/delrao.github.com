@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "테스트 테스트 123123"
+subtitle:   "테스트테스트테스트 서브타이틀"
+date:       2017-01-31
+author:     "delrao"
+header-img: "img/post-bg-06.jpg"
+---
+
+<p>테스트 입니다 1234567889</p>
+
+<p>테스트 입니다 1234567889</p>
+
+<p>테스트 입니다 1234567889</p>
+
+<p>테스트 입니다 1234567889</p>
+
+<h2 class="section-heading">테스트</h2>
+
+<blockquote>12345678903333333333</blockquote>
+
+<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+<p>Placeholder text by <a href="http://spaceipsum.com/">링크1</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">링크2</a>.</p>
