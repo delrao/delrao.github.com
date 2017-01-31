@@ -19,7 +19,33 @@ header-img: "img/post-bg-06.jpg"
 
 <blockquote>12345678903333333333</blockquote>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
+
+```javascript
+Rx.Observable.fromEvent(searchInputField, 'keyup') 
+  .map(function (e) {return e.target.value;})      
+  .debounce(300) 
+  .distinctUntilChanged()      
+  .scan(function(prev, current) { 
+        if (prev == null && current == originalValue) {
+            return null;          
+        } 
+        return current;      
+      }, null)      
+  .filter(function(text) {return text != null})      
+```  
+
+
+<p>1234123412341234.</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
