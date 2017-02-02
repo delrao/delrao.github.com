@@ -1,15 +1,18 @@
 # Site settings
-title: 테스트 Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+title: 안녕하세요. 맑은 하늘
+header-img: img/sky-476817.jpg #img/home-bg.jpg
+email: 0828alstjd@gmail.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
+
+#main_description: "abcdefghijk"
+
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap
-email_username:  0828alstjd@gmail.com
+email_username:  delrao
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

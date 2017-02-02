@@ -4,7 +4,9 @@ title:      "테스트 테스트 123123"
 subtitle:   "테스트테스트테스트 서브타이틀"
 date:       2017-01-31
 author:     "delrao"
-header-img: "img/post-bg-06.jpg"
+#header-img: "img/post-bg-06.jpg"
+
+comments: true
 ---
 
 <p>테스트 입니다 1234567889</p>
@@ -14,6 +16,9 @@ header-img: "img/post-bg-06.jpg"
 <p>테스트 입니다 1234567889</p>
 
 <p>테스트 입니다 1234567889</p>
+
+<p>테스트 입니다 1234567889aaaa
+<br>fffffgggghhhhh</p>
 
 <h2 class="section-heading">테스트</h2>
 
@@ -47,9 +52,10 @@ Rx.Observable.fromEvent(searchInputField, 'keyup') 
 
 <p>1234123412341234.</p>
 
-<a href="#">
+<!-- <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
+</a> -->
+
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">링크1</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">링크2</a>.</p>
